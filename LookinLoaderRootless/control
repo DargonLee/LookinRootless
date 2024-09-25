@@ -1,0 +1,9 @@
+Package: com.yourcompany.lookinloaderrootless
+Name: LookinLoaderRootless
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: LookinLoader tweak!
+Maintainer: Harlans
+Author: Harlans
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000),  preferenceloader (>= 2.2.3), com.opa334.altlist

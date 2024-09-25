@@ -1,0 +1,82 @@
+[
+    {
+        "version":"1.3.6",
+        "date":"2021-03-31 10:21:19",
+        "changes":[
+            "Added option to select default appearance color (Dark by default)",
+            "Moved AppData force touch menu item to system section",
+            "Fixed reset permissions crash on iOS 12",
+            "Hide force touch menu from Widgets on iSO 14"
+        ]
+    },
+    {
+        "version":"1.3.4",
+        "date":"2021-03-29 01:48:30",
+        "changes":[
+            "Redesigned the actions bar in the manage section",
+            "Added clear data and offload app actions",
+            "Added option to set custom badge count",
+            "Added option to reset app's permissions",
+            "Added light style on iOS 13+",
+            "Added compatibility with DockController and FloatingDockPlus13"
+        ]
+    },
+    {
+        "version":"1.2.4",
+        "date":"2021-03-06 11:25:09",
+        "changes":[
+            "Fixed crash with Snowboard on iOS 14"
+        ]
+    },
+    {
+        "version":"1.2.3",
+        "date":"2020-08-12 10:59:19",
+        "changes":[
+            "Show edit/copy icons on iOS 12 and older",
+            "Fixed a crash when some versions are numbers instead of strings"
+        ]
+    },
+    {
+        "version":"1.2.2",
+        "date":"2020-08-07 10:44:28",
+        "changes":[
+            "Fixed opening directory paths that contain spaces",
+            "Show an alert if Filza app is not installed"
+        ]
+    },
+    {
+        "version":"1.2.1",
+        "date":"2020-08-04 12:44:11",
+        "changes":[
+            "Fixed a crash in More Info section"
+        ]
+    },
+    {
+        "version":"1.2",
+        "date":"2020-07-25 00:25:35",
+        "changes":[
+            "Added 'More Info' section to display more information",
+            "Fixed popup not showing from force touch menu on iOS 11-12",
+            "Fixed edit app icon text field not showing keyboard on iPad",
+            "Fixed popup not dismissing on iPad after unlocking device or going into app switcher"
+        ]
+    },
+    {
+        "version":"1.1",
+        "date":"2020-07-10 11:15:57",
+        "changes":[
+            "Added option to set custom app icon name",
+            "Better popup design and animation on iPad",
+            "Fixed popup not showing when apps icons size is modified",
+            "AppData context menu item will no longer show for folders",
+            "AppData context menu item will now be added before other items"
+        ]
+    },
+    {
+        "version":"1.0",
+        "date":"2020-07-01 20:34:15",
+        "changes":[
+            "Initial Release"
+        ]
+    }
+]
