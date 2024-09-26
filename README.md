@@ -48,9 +48,7 @@ make do
 
 - 安装
 
-去 `packages` 中安装 `deb` 包
-
-
+去 `release` 中下载 `zip` 包并解压安装`deb`文件
 
 ### 更新 Lookin
 
