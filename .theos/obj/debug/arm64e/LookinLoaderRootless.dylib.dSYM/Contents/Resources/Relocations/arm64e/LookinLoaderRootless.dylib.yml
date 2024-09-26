@@ -1,0 +1,7 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/apple/Desktop/Github/LookinRootless/.theos/obj/debug/arm64e/LookinLoaderRootless.dylib'
+relocations:
+  - { offset: 0x1E, size: 0x8, addend: 0x0, symName: __logosLocalCtor_9169e33d, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x248 }
+  - { offset: 0x2B, size: 0x8, addend: 0x0, symName: __logosLocalCtor_9169e33d, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x248 }
+...
