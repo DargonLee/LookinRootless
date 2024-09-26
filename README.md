@@ -1,10 +1,12 @@
 # LookinRootless
 
 ![20240926151128](README.assets/20240926151128.jpg)
-<center>
-<img src="README.assets/IMG_0141.PNG" width="200">
-<img src="README.assets/IMG_0142.PNG" width="200">
-</center>
+<div style="display: flex;">
+    <img src="README.assets/IMG_0141.PNG" style="display:inline; width: 50%;">
+		<img src="README.assets/IMG_0142.PNG" style="display:inline; width: 50%;">
+</div>
+
+
 
 ### Looin版本
 
@@ -56,4 +58,5 @@ make do
 - 增加 `arm64e`架构
 - 编译出`Lookin.framework`
 - 把编译的 framework 替换到`layout/Application Support/LookinLoader`中
+- 重新编译
 
