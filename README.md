@@ -2,8 +2,8 @@
 
 ![20240926151128](README.assets/20240926151128.jpg)
 <div style="display: flex;">
-    <img src="README.assets/IMG_0141.PNG" style="display:inline; width: 50%;">
-		<img src="README.assets/IMG_0142.PNG" style="display:inline; width: 50%;">
+    <img src="README.assets/IMG_0141.PNG" style="display:inline; width: 30%;">
+		<img src="README.assets/IMG_0142.PNG" style="display:inline; width: 30%;">
 </div>
 
 
