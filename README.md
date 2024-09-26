@@ -2,8 +2,8 @@
 
 ![20240926151128](README.assets/20240926151128.jpg)
 <div style="display: flex;">
-    <img src="README.assets/IMG_0141.PNG" style="display:inline; width: 30%;">
-		<img src="README.assets/IMG_0142.PNG" style="display:inline; width: 30%;">
+    <img src="README.assets/IMG_0141.PNG" style="display:inline; width: 50%;">
+		<img src="README.assets/IMG_0142.PNG" style="display:inline; width: 50%;">
 </div>
 
 
@@ -15,7 +15,7 @@
 
 ### Rootless 版本
 
-安装 `packages`目录下的`deb`文件
+去 `release` 中下载 `zip` 包并解压安装`deb`文件
 
 ### 手动编译
 
@@ -48,7 +48,7 @@ make do
 
 - 安装
 
-去 `release` 中下载 `zip` 包并解压安装`deb`文件
+去 `packages` 中安装 `deb` 包
 
 ### 更新 Lookin
 
